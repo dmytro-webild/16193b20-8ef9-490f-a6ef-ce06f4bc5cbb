@@ -160,7 +160,6 @@ export default function LandingPage() {
       ]}
       ratingAnimation="blur-reveal"
       avatarsAnimation="blur-reveal"
-      tag="What Our Clients Say"
     />
   </div>
 
